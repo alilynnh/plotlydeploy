@@ -1,0 +1,21 @@
+body {
+    font-family: 'Red Hat Display', sans-serif;
+    background-color: lightgray
+}
+
+.jumbotron{
+    background-color: rgb(150, 185, 106)
+}
+
+.jumbotron h1, p {
+    color: darkgreen;
+    font-weight: 100
+}
+
+.button {
+    color: rgb(150, 185, 106);
+    background-color: darkgreen;
+    border: none;
+    padding: 8px
+}
+

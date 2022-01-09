@@ -10,7 +10,7 @@ The dashboard allows the participants and the researchers to view data on the ba
 - Displays this data in a hortizontal bar chart in descending order from top to bottom.      
 
 **Deliverable 2**: 
-- Displays the bacteria data for the selected participant in a bubble chart. The bacteria ID numbers are used on the x axis, and the sample values are used on the yaxis and as a reference for the size of each bubble.        
+- Displays the bacteria data for the selected participant in a bubble chart. The bacteria ID numbers are used on the x-axis, and the sample values are used on the y-axis and as a reference for the size of each bubble.        
 
 **Deliverable 3**: 
 - Collects navel washing data for the participant ID that is selected. 

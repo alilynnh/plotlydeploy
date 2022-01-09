@@ -1,4 +1,5 @@
 # Plotly Deploy
+https://alilynnh.github.io/plotlydeploy/
 ## Project Overview
 This project was conducted for a client who is researching the use of bacteria in sythesizing proteins that taste like beef. The client hypothesizes that the ideal bacterial species to make synthetic beef may be found in the belly button, and has sampled the navels of individuals across the country in order to identify the different species that colonize belly buttons. A dashboard was created that is intended to be used by both the researchers and the research participants of the project.
 
